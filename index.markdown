@@ -8,6 +8,11 @@ description: Joseph Reagle の Good Faith Collaboration を日本語に翻訳 / 
 
 ## 作業場所
 * [共有レポジトリ](https://github.com/good-faith-collaboration-ja)
+* 
+
+## 進捗状況
+* 第1章：翻訳第1稿がほぼできており、校正中 (2011-10)
+* 第2章：翻訳第1稿が20%程度まで (2011-10)
 
 ## 連絡先
  * [メーリングリスト](http://groups.google.com/group/gfc-ja)
