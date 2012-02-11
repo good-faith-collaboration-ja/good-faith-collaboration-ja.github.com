@@ -12,6 +12,8 @@ description: Joseph Reagle の Good Faith Collaboration を日本語に翻訳 / 
 ## 進捗状況
 * 第1章：翻訳第1稿がほぼできており、校正中 (2011-02)
 * 第2章：翻訳第1稿が80%程度まで (2012-02)
+* 第4章：翻訳着手済み (2011-10)
+
 
 ## 連絡先
  * [メーリングリスト](http://groups.google.com/group/gfc-ja)
