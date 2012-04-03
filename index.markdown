@@ -25,12 +25,3 @@ description: Joseph Reagle の Good Faith Collaboration を日本語に翻訳 / 
  * 窓口：[whym](https://github.com/whym)
    
    * 電子メール whym@whym.org
-
-    
-    The Pursuit of the Universal Encyclopedia
-    Good Faith Collaboration
-    The Puzzle of Openness
-    The Challenges of Consensus
-    The Benevolent Dictator
-    Encyclopedic Anxiety
-    Conclusion: "A Globe in Accord"
